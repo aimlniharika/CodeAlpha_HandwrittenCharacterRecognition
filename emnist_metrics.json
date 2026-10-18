@@ -1,0 +1,7 @@
+{
+    "model": "EMNIST CNN",
+    "classes": 62,
+    "test_accuracy": 0.8658046722412109,
+    "test_loss": 0.3624618351459503,
+    "epochs": 5
+}
